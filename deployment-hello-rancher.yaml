@@ -32,7 +32,7 @@ spec:
             memory: 200Mi
         env:
         - name: CONTAINER_COLOR
-          value: blue
+          value: red
         - name: PETS
           value: chameleons
           # cows
